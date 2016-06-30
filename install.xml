@@ -4,9 +4,9 @@
 	<summary>Allows to insert Piwik Analytics code</summary>
 	<author>Intelliants LLC</author>
 	<contributor>Intelliants LLC</contributor>
-	<version>3.2.0</version>
-	<date>2014-11-19</date>
-	<compatibility>3.2</compatibility>
+	<version>4.0.0</version>
+	<date>2016-06-30</date>
+	<compatibility>4.0</compatibility>
 
 	<configgroup name="piwik_analytics">Piwik Analytics</configgroup>
 
