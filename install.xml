@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<plugin name="piwik">
+<?xml version="1.1" encoding="UTF-8" ?>
+<module type="plugin" name="piwik">
 	<title>Piwik Analytics</title>
 	<summary>Allows to insert Piwik Analytics code</summary>
 	<author>Intelliants LLC</author>
 	<contributor>Intelliants LLC</contributor>
-	<version>4.0.0</version>
-	<date>2016-06-30</date>
-	<compatibility>4.0</compatibility>
+	<version>4.1.0</version>
+	<date>2017-04-06</date>
+	<compatibility>4.1</compatibility>
 
 	<configgroup name="piwik_analytics">Piwik Analytics</configgroup>
 
@@ -20,4 +20,4 @@
 			]]>
 		</hook>
 	</hooks>
-</plugin>
+</module>
